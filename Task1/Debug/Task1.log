@@ -1,0 +1,17 @@
+﻿  Circle.cpp
+c:\users\oscstr-9\source\repos\laboration5\task1\circle.cpp(22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\oscstr-9\source\repos\laboration5\task1\circle.cpp(21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Main.cpp
+c:\users\oscstr-9\source\repos\laboration5\task1\main.cpp(14): warning C4018: '<': signed/unsigned mismatch
+c:\users\oscstr-9\source\repos\laboration5\task1\main.cpp(56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Rectangle.cpp
+c:\users\oscstr-9\source\repos\laboration5\task1\rectangle.cpp(21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\oscstr-9\source\repos\laboration5\task1\rectangle.cpp(22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\oscstr-9\source\repos\laboration5\task1\rectangle.cpp(23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\oscstr-9\source\repos\laboration5\task1\rectangle.cpp(24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Triangle.cpp
+c:\users\oscstr-9\source\repos\laboration5\task1\triangle.cpp(24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\oscstr-9\source\repos\laboration5\task1\triangle.cpp(25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\oscstr-9\source\repos\laboration5\task1\triangle.cpp(26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  Task1.vcxproj -> C:\Users\oscstr-9\source\repos\Laboration5\Debug\Task1.exe
